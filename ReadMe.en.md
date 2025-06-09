@@ -1,6 +1,6 @@
 # Sphinx Table Generator - 1.9.5
 
-[English](ReadMe-en.md) | [简体中文](ReadMe-cn.md)
+[English](ReadMe.en.md) | [简体中文](ReadMe.cn.md)
 
 This tool is designed for generating irregular grid-style tables.
 

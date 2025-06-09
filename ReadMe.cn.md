@@ -1,6 +1,6 @@
 # Sphinx表格生成器-1.9.5
 
-[English](ReadMe-en.md) | [简体中文](ReadMe-cn.md)
+[English](ReadMe.en.md) | [简体中文](ReadMe.cn.md)
 
 该工具用于生成不规则的网格式表格
 
